@@ -22,8 +22,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/karthikeyan-R16/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119421232/76bcdc70-540b-4d8f-9e39-a6f890c5238b)
+
+
+ 
+### Name: KARTHIKEYAN R
+### Register Number: 212222240045
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
